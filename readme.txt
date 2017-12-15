@@ -17,7 +17,9 @@ The ‘source’  table has a unique identifier column which is relatively redun
 
 Embarrassingly, the program seems to additionally return category 9 events. I hope this is the fault of the API rather than my code!
 
-EONET is an absolutely remarkable resource, that could be used to power and inform myriad applications and research projects. 
+I didn’t have time to convert the tables into a spreadsheet or automate emailing although that process wouldn’t take long.
+
+EONET is an absolutely remarkable resource that could be used to power and inform myriad applications and research projects. I’ve enjoyed working with it immensely.
 
 							Mike Desson
 							December 2017
